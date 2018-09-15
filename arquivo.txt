@@ -1,3 +1,5 @@
 Minha primeira alteração no projeto
 
 Linha nova, antes do almoco
+
+linha nova para testar diff
