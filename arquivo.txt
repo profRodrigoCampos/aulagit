@@ -1,11 +1,1 @@
-Credo
-
-Minha primeira alteracao no projeto
-
-linha nova para testar diff
-
-novas linhas
-
-só loucura
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Primeiro projeto
